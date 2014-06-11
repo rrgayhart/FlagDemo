@@ -1,5 +1,10 @@
 <h1>Listing posts</h1>
-
+<%= link_to("Make It All Shiney", "/flip") %>
+<div>
+  <% if feature? :make_it_shiney %>
+    <%= image_tag("firefly.gif") %>
+<% end %>
+</div>
 <table>
   <thead>
     <tr>

@@ -1,4 +1,5 @@
 FlagDemoApp::Application.routes.draw do
+  mount Flip::Engine => "/flip"
   resources :posts
 
   resources :users
