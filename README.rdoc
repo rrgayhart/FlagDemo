@@ -1,28 +1,9 @@
-== README
+## Demos of Existing Rails Gems for Feature Flipping
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Flip Gem](https://github.com/pda/flip)
 
-Things you may want to cover:
+[Basic implementation on the flip_demo branch](https://github.com/rrgayhart/FlagDemo/tree/flip_demo)
 
-* Ruby version
+[Rollout Gem](https://github.com/FetLife/rollout)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[Basic implementation on the rollout_demo branch](https://github.com/rrgayhart/FlagDemo/tree/rollout_demo)
