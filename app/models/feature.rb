@@ -7,6 +7,5 @@ class Feature < ActiveRecord::Base
   default false
 
   feature :make_it_shiney,
-    default: false,
     description: "Makes things shiney"
 end
